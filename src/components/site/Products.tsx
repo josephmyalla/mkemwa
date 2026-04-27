@@ -8,21 +8,21 @@ const products = [
     name: "Lumen Pro M1",
     tag: "Mirrorless · Flagship",
     specs: ["61 MP Full-Frame", "8K 30p RAW", "Dual CFexpress"],
-    price: "$4,299",
+    price: "Sh 2,500,000",
   },
   {
     img: cam2,
     name: "Lumen DSR Mark V",
     tag: "DSLR · Studio",
     specs: ["50 MP Sensor", "4K 120p", "EF/RF Mount"],
-    price: "$3,199",
+    price: "Sh 2,500,000",
   },
   {
     img: cam3,
     name: "Lumen Cine X",
     tag: "Cinema · Pro Video",
     specs: ["Super 35 Sensor", "ProRes 4444", "16-stop DR"],
-    price: "$5,899",
+    price: "Sh 3,500,000",
   },
 ];
 
