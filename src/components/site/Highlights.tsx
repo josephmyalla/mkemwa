@@ -1,5 +1,5 @@
-import lowlight from "@/assets/feature-lowlight.jpg";
-import lens from "@/assets/feature-lens.jpg";
+import lowlight from "../../assets/feature-lowlight.jpg";
+import lens from "../../assets/feature-lens.jpg";
 
 const features = [
   {

@@ -1,6 +1,6 @@
-import cam1 from "@/assets/camera-1.jpg";
-import cam2 from "@/assets/camera-2.jpg";
-import cam3 from "@/assets/camera-3.jpg";
+import cam1 from "../../assets/camera-1.jpg";
+import cam2 from "../../assets/camera-2.jpg";
+import cam3 from "../../assets/camera-3.jpg";
 
 const products = [
   {
