@@ -1,9 +1,10 @@
-import lowlight from "../../assets/feature-lowlight.jpg";
-import lens from "../../assets/feature-lens.jpg";
+import usedcamera0 from "../../assets/usedcamera6.jpeg"
+import usedcamera5 from "../../assets/usedcamera5.jpeg"
+import usedcamera4 from "../../assets/usedcamera4.jpeg"
 
 const features = [
   {
-    img: lowlight,
+    img: usedcamera5,
     eyebrow: "Low-light mastery",
     title: "See what others can't.",
     body: "ISO sensitivity up to 409,600 and a stacked BSI sensor capture clean, cinematic frames where light barely exists.",
@@ -13,7 +14,7 @@ const features = [
     ],
   },
   {
-    img: lens,
+    img: usedcamera0,
     eyebrow: "Optical precision",
     title: "Glass that defines a generation.",
     body: "Aspherical elements and nano-coated optics eliminate flare, distortion, and chromatic aberration — corner to corner.",
@@ -24,7 +25,7 @@ const features = [
     reverse: true,
   },
   {
-    img: lowlight,
+    img: usedcamera4,
     eyebrow: "Cinema-grade video",
     title: "8K RAW. Internally recorded.",
     body: "Capture 8K 30p or 4K 120p in 16-bit ProRes RAW. Full V-Log, no compromises, no external recorder required.",

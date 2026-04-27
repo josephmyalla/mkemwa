@@ -10,7 +10,7 @@ export function Hero() {
   }, []);
 
   return (
-    <section className="relative min-h-screen w-full overflow-hidden grain">
+    <section className="relative min-h-screen w-full overflow-hidden grain mt-12">
       {/* Parallax background */}
       <div
         className="absolute inset-0 -z-10 will-change-transform"

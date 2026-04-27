@@ -25,7 +25,7 @@ export function Footer() {
         <div className="grid lg:grid-cols-12 gap-12 pb-16 border-b border-border">
           <div className="lg:col-span-5">
             <a href="#" className="flex items-center gap-2 mb-6">
-              <Logo/>
+             <Logo/>
             </a>
             <p className="text-muted-foreground max-w-sm mb-8 leading-relaxed">
               Cinema-grade cameras and optics, engineered for those who frame the

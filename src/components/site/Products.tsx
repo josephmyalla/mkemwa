@@ -1,6 +1,13 @@
 import cam1 from "../../assets/camera-1.jpg";
 import cam2 from "../../assets/camera-2.jpg";
 import cam3 from "../../assets/camera-3.jpg";
+import usedcamera0 from "../../assets/usedcamera0.jpeg"
+import usedcamera1 from "../../assets/usedcamera1.jpeg"
+import usedcamera2 from "../../assets/usedcamera2.jpeg"
+import usedcamera3 from "../../assets/usedcamera3.jpeg"
+import usedcamera4 from "../../assets/usedcamera4.jpeg"
+import usedcamera5 from "../../assets/usedcamera5.jpeg"
+import usedcamera6 from "../../assets/usedcamera6.jpeg"
 
 const products = [
   {
@@ -23,6 +30,27 @@ const products = [
     tag: "Cinema · Pro Video",
     specs: ["Super 35 Sensor", "ProRes 4444", "16-stop DR"],
     price: "Sh 3,500,000",
+  },
+  {
+    img: usedcamera0,
+    name: "Lumen Pro M1",
+    tag: "Mirrorless · Flagship",
+    specs: ["61 MP Full-Frame", "8K 30p RAW", "Dual CFexpress"],
+    price: "Sh 1,500,000",
+  },
+  {
+    img: usedcamera1,
+    name: "Lumen DSR Mark V",
+    tag: "DSLR · Studio",
+    specs: ["50 MP Sensor", "4K 120p", "EF/RF Mount"],
+    price: "Sh 3,500,000",
+  },
+  {
+    img: usedcamera3,
+    name: "Lumen Cine X",
+    tag: "Cinema · Pro Video",
+    specs: ["Super 35 Sensor", "ProRes 4444", "16-stop DR"],
+    price: "Sh 1,500,000",
   },
 ];
 
