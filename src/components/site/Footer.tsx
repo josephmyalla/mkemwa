@@ -93,7 +93,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 pt-8 text-xs text-muted-foreground">
-          <p>© 2026 Mkemwa Optics Co. All rights reserved.</p>
+          <p>© 2026 Camera used Tz. All rights reserved.</p>
     
             <p className="text-2xl">Call & Whatsapp:{"  "}<span className="text-2xl">+255 0625 805 055</span></p>
            
