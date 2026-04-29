@@ -3,11 +3,7 @@ import cam2 from "../../assets/camera-2.jpg";
 import cam3 from "../../assets/camera-3.jpg";
 import usedcamera0 from "../../assets/usedcamera0.jpeg"
 import usedcamera1 from "../../assets/usedcamera1.jpeg"
-import usedcamera2 from "../../assets/usedcamera2.jpeg"
 import usedcamera3 from "../../assets/usedcamera3.jpeg"
-import usedcamera4 from "../../assets/usedcamera4.jpeg"
-import usedcamera5 from "../../assets/usedcamera5.jpeg"
-import usedcamera6 from "../../assets/usedcamera6.jpeg"
 
 const products = [
   {
